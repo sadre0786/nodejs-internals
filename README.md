@@ -13,3 +13,15 @@ Slow tasks run in the background and return results as events.
 ## Demo
 The `event-loop-demo.js` file shows how Node.js executes code
 without waiting for timers to finish.
+
+
+## Async Concepts in Node.js
+
+Covered:
+- Callbacks
+- Promises
+- async/await
+
+Goal:
+Understand how Node.js handles asynchronous operations
+without blocking the main thread.
